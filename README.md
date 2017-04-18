@@ -1,2 +1,2 @@
 # bin-interview-all
-Collect all the interviewer to interview experience 
+Collect all about bin searity the  interviewer to interview experience 
